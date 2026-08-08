@@ -50,3 +50,5 @@ IP-CIDR,150.109.230.182/32,no-resolve
 IP-CIDR,142.251.215.234/32,no-resolve
 IP-CIDR,43.133.241.84/32,no-resolve
 IP-CIDR,3.160.150.37/32,no-resolve
+
+IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
